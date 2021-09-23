@@ -1,0 +1,49 @@
+.Form {
+  padding: 5%;
+  border-style: ridge;
+}
+#formD {
+  padding: 5%;
+}
+
+.FormLabels {
+  margin-right: 80%;
+}
+.feedBackButton {
+  margin: 2%;
+}
+
+.feedCard {
+  padding: 10px;
+}
+
+#cardFeedback {
+  float: left;
+  margin: auto;
+  width: 25%;
+  padding: 2px;
+}
+
+#footerId {
+  clear: both;
+}
+
+.column1 {
+  float: left;
+  width: 65%;
+  padding: 10px;
+}
+.column2 {
+  float: left;
+  width: 35%;
+  padding: 10px;
+}
+#co2Text {
+  margin: auto;
+  padding-top: 10%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}

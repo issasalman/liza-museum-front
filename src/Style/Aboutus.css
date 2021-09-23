@@ -1,0 +1,49 @@
+.img1{
+
+    border-style:solid; 
+    border-color:#a98960; 
+    border-width:10px;
+    height: 50%;
+   
+
+}
+.img2 {
+    border-style:solid; 
+    border-color:#a98960; 
+    border-width:10px;
+    height: 50%;
+ }
+ .img3 {
+    border-style:solid; 
+    border-color:#a98960; 
+    border-width:10px;
+    height: 50%;
+ }
+ 
+ .img4 {
+    border-style:solid; 
+    border-color:#a98960; 
+    border-width:10px;
+    height: 50%;
+ }
+ 
+ .img5 {
+    border-style:solid; 
+    border-color:#a98960; 
+    border-width:10px;
+    height: 50%;
+ }
+ 
+ .img6 {
+    border-style:solid; 
+    border-color:#a98960; 
+    border-width:10px;
+    height: 50%;
+ }
+ 
+ .body{
+    /* background-image: url("../components/teamimg/pic.jpg"); */
+    background-color: #FDF5CA;
+ }
+ *{font-family: "Bebas Neue", cursive;}
+ 

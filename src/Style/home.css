@@ -1,0 +1,42 @@
+
+#paintingHomeDiv .card {
+  width: 800px;
+
+  margin: 20px;
+  margin-left: 70px;
+}
+
+#paintingHomeDiv #imageHome {
+  height: 420px;
+  width: 300px;
+  border: 10px solid #a98960;
+  border-radius: 4px;
+  box-sizing: border-box;
+
+  box-shadow: 7px 10px 15px black;
+}
+#paintingHomeDiv #imageHome:hover {
+  height: 420px;
+  width: 300px;
+  border: 10px solid #4A403A;
+    border-radius: 4px;
+  box-sizing: border-box;
+
+  box-shadow: 7px 10px 15px black;
+}
+
+
+
+#shad {
+  box-shadow: 10px 10px 15px black;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 40px;
+}
+*{font-family: "Bebas Neue", cursive;}
+
+/* Flashing */
+
+
+
+

@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+.img_Event {
+  width: 50%;
+  margin-right: 20px;
+}
+.body_Event {
+  width: 50%;
+  padding-top: 10%;
+  border: 4px solid black;
+  height: 400px;
+  padding-top: 60px;
+  margin-left: 20px;
+  margin-right: 5px;
+ background-color: rgb(235, 235, 235);
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  padding-top: 1%;
+  height: 450px;
+
+  /* background-color: DodgerBlue; */
+}
+.event_description {
+  font-size: larger;
+}
+.img {
+  height: 400px;
+}
+* {
+  font-family: "Bebas Neue", cursive;
+}
