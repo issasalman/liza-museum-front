@@ -36,7 +36,7 @@ export class Profile extends Component {
 
           this.setState({ myEvents: newEvents });
         }
-      
+        window.location.reload();
       })
       .catch(() => alert("Error deleting"));
   };
@@ -52,7 +52,7 @@ export class Profile extends Component {
 
           this.setState({ myPaints: newPaints });
         }
-      
+        window.location.reload();
       })
       .catch(() => alert("Error deleting"));
   };
